@@ -30,6 +30,7 @@ Se exportaron 3 tipos de visualizaciones:
 - Un dashboard con el resumen del área técnica para que la coordinación pudiera tomar decisiones en tiempo real.
 
 ## Resultados
-![Reduccion tiempos](https://raw.githubusercontent.com/juliandiazparra/reduc_serv_times/tree/main/Reducción tiempos.png)
+<img width="430" alt="Reducción tiempos" src="https://github.com/user-attachments/assets/0646dd7b-20d3-4916-98e1-0098e3ef65fd">
+
 Se puede observar que los tiempos de respuesta para todas las categorías de solicitudes se redujeron en alrededor de un 40 a 50% al cabo de 3 meses de implementar las medidas.
 
