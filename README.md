@@ -30,7 +30,20 @@ Se exportaron 3 tipos de visualizaciones:
 - Un dashboard con el resumen del área técnica para que la coordinación pudiera tomar decisiones en tiempo real.
 
 ## Resultados
+<img width="572" alt="tasas_categoria_servicio" src="https://github.com/user-attachments/assets/72ac95a0-54b7-41ef-8e1b-5eba02adc976">
+
+Se calcularon las tasas de solicitudes de cada categoría como el porcentaje del total de usuarios.
+
+<img width="679" alt="Captura de pantalla 2024-09-28 a la(s) 1 52 57 p m" src="https://github.com/user-attachments/assets/1c4cb15b-65f4-4cbe-bd5b-7820b1767e21">
+
+Se diseñaron 4 indicadores para medir a los técnicos y se definieron niveles de desempeño.
+
+<img width="590" alt="Captura de pantalla 2024-09-28 a la(s) 1 54 37 p m" src="https://github.com/user-attachments/assets/b6988d75-4fcf-459e-a15e-2a6d8d611d53">
+
+Con esto, se automatizó la producción de reportes mensuales para que la gerencia y coordinación técnicas pudieran tomar decisiones.
+
+
 <img width="430" alt="Reducción tiempos" src="https://github.com/user-attachments/assets/0646dd7b-20d3-4916-98e1-0098e3ef65fd">
 
+**Resultado principal:**
 Se puede observar que los tiempos de respuesta para todas las categorías de solicitudes se redujeron en alrededor de un 40 a 50% al cabo de 3 meses de implementar las medidas.
-
